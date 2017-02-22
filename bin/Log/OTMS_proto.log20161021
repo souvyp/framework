@@ -1,0 +1,444 @@
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:17:43:48	Thread ID:51
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0001","paras":[{"name":"Account","value":"055"},{"name":"Password","value":"123"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:17:43:48	Thread ID:51
+Description:
+[{"result":true,"time":93,"rs":[{"rows":[{"Bind_Result":"-510061001"}]}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:17:43:51	Thread ID:45
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0001","paras":[{"name":"Account","value":""},{"name":"Password","value":""}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:17:43:51	Thread ID:45
+Description:
+[{"result":true,"time":0,"rs":[{"rows":[{"Bind_Result":"-510061001"}]}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:17:52:17	Thread ID:31
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0001","paras":[{"name":"Account","value":"wang@qq.com"},{"name":"Password","value":"123"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:17:52:17	Thread ID:31
+Description:
+[{"result":true,"time":0,"rs":[{"rows":[{"Bind_Result":"-510061001"}]}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:17:58:09	Thread ID:14
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0001","paras":[{"name":"Account","value":"fff"},{"name":"Password","value":"dff"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:17:58:09	Thread ID:14
+Description:
+[{"result":true,"time":0,"rs":[{"rows":[{"Bind_Result":"-510061001"}]}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:17:59:15	Thread ID:27
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0001","paras":[{"name":"Account","value":"wanga"},{"name":"Password","value":"lia"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:17:59:15	Thread ID:27
+Description:
+[{"result":true,"time":0,"rs":[{"rows":[{"Bind_Result":"-510061002"}]}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:18:07:44	Thread ID:55
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0001","paras":[{"name":"Account","value":"wanga"},{"name":"Password","value":"lia"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:18:07:44	Thread ID:55
+Description:
+[{"result":true,"time":15,"rs":[{"rows":[{"Bind_Result":"-510061003"}]}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:18:08:02	Thread ID:9
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0001","paras":[{"name":"Account","value":"wanga"},{"name":"Password","value":"lia"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:18:08:02	Thread ID:9
+Description:
+[{"result":true,"time":15,"rs":[{"rows":[{"Bind_Result":"-510061003"}]}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:18:09:47	Thread ID:9
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0001","paras":[{"name":"Account","value":"wanga"},{"name":"Password","value":"lia"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:18:09:47	Thread ID:9
+Description:
+[{"result":true,"time":15,"rs":[{"rows":[{"Bind_Result":"-510061003"}]}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:18:11:27	Thread ID:57
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0001","paras":[{"name":"Account","value":"wanga"},{"name":"Password","value":"123"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:18:11:27	Thread ID:57
+Description:
+{"result":false,"err":100001,"msg":"exception error!"}
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:18:11:50	Thread ID:54
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0001","paras":[{"name":"Account","value":"wanga"},{"name":"Password","value":"123"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:18:11:50	Thread ID:54
+Description:
+{"result":false,"err":100001,"msg":"exception error!"}
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:18:12:02	Thread ID:59
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0001","paras":[{"name":"Account","value":"wanga"},{"name":"Password","value":"123"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:18:12:02	Thread ID:59
+Description:
+{"result":false,"err":100001,"msg":"exception error!"}
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:18:12:19	Thread ID:54
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0001","paras":[{"name":"Account","value":"wanga"},{"name":"Password","value":"123"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:18:12:19	Thread ID:54
+Description:
+{"result":false,"err":100001,"msg":"exception error!"}
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:18:16:02	Thread ID:59
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0001","paras":[{"name":"Account","value":"wanga"},{"name":"Password","value":"123"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:18:16:02	Thread ID:59
+Description:
+{"result":false,"err":100001,"msg":"exception error!"}
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:18:17:32	Thread ID:64
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0001","paras":[{"name":"Account","value":"wanga"},{"name":"Password","value":"123"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:18:17:32	Thread ID:64
+Description:
+[{"result":true,"time":31,"rs":[{"rows":[{"Bind_Result":"0"}]}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:18:21:58	Thread ID:66
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0001","paras":[{"name":"Account","value":"wanga"},{"name":"Password","value":"123"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:18:21:58	Thread ID:66
+Description:
+[{"result":true,"time":0,"rs":[{"rows":[{"Bind_Result":"0"}]}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:18:25:47	Thread ID:59
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0001","paras":[{"name":"Account","value":"wanga"},{"name":"Password","value":"123"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:18:25:47	Thread ID:59
+Description:
+[{"result":true,"time":31,"rs":[{"rows":[{"Bind_Result":"0"}]}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:18:26:25	Thread ID:72
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0001","paras":[{"name":"Account","value":"wanga"},{"name":"Password","value":"123"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:18:26:25	Thread ID:72
+Description:
+[{"result":true,"time":15,"rs":[{"rows":[{"Bind_Result":"0"}]}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:18:26:27	Thread ID:71
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"company_reading","paras":[]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:18:26:27	Thread ID:71
+Description:
+[{"result":false,"err":104006,"msg":"Failed to execute the stored procedures!"}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:18:27:32	Thread ID:72
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0003","paras":[]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:18:27:32	Thread ID:72
+Description:
+[{"result":false,"err":104006,"msg":"Failed to execute the stored procedures!"}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:19:11:24	Thread ID:20
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0001","paras":[{"name":"Account","value":"wanga"},{"name":"Password","value":"123"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:19:11:24	Thread ID:20
+Description:
+[{"result":true,"time":109,"rs":[{"rows":[{"Bind_Result":"0"}]}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:19:11:27	Thread ID:16
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"company_reading","paras":[]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:19:11:27	Thread ID:16
+Description:
+[{"result":false,"err":104006,"msg":"Failed to execute the stored procedures!"}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:19:11:51	Thread ID:19
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0001","paras":[{"name":"Account","value":"lia"},{"name":"Password","value":"123"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:19:11:51	Thread ID:19
+Description:
+[{"result":true,"time":0,"rs":[{"rows":[{"Bind_Result":"0"}]}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:19:11:58	Thread ID:16
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"company_reading","paras":[]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:19:11:58	Thread ID:16
+Description:
+[{"result":false,"err":104006,"msg":"Failed to execute the stored procedures!"}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:19:12:00	Thread ID:8
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"Dtms_0001","paras":[{"name":"rows","value":1000},{"name":"page","value":1}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:19:12:00	Thread ID:8
+Description:
+[{"result":false,"err":104006,"msg":"Failed to execute the stored procedures!"}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:19:12:17	Thread ID:18
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"Dtms_0001","paras":[{"name":"rows","value":1000},{"name":"page","value":1}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:19:12:17	Thread ID:18
+Description:
+[{"result":false,"err":104006,"msg":"Failed to execute the stored procedures!"}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:19:12:30	Thread ID:15
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"acc_0003","paras":[]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:19:12:30	Thread ID:15
+Description:
+[{"result":false,"err":104006,"msg":"Failed to execute the stored procedures!"}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:19:12:33	Thread ID:17
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"company_reading","paras":[]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:19:12:33	Thread ID:17
+Description:
+[{"result":false,"err":104006,"msg":"Failed to execute the stored procedures!"}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:19:12:36	Thread ID:9
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"Dtms_0001","paras":[{"name":"rows","value":1000},{"name":"page","value":1}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:19:12:36	Thread ID:9
+Description:
+[{"result":false,"err":104006,"msg":"Failed to execute the stored procedures!"}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:19:13:05	Thread ID:17
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"Dtms_0010","paras":[]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:19:13:05	Thread ID:17
+Description:
+[{"result":false,"err":104006,"msg":"Failed to execute the stored procedures!"}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:19:13:07	Thread ID:16
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"Dtms_0012","paras":[]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:19:13:07	Thread ID:16
+Description:
+[{"result":false,"err":104006,"msg":"Failed to execute the stored procedures!"}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:19:13:08	Thread ID:19
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"Dtms_0013","paras":[]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:19:13:08	Thread ID:19
+Description:
+[{"result":false,"err":104006,"msg":"Failed to execute the stored procedures!"}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:19:13:08	Thread ID:18
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"Dtms_0010","paras":[]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:19:13:08	Thread ID:18
+Description:
+[{"result":false,"err":104006,"msg":"Failed to execute the stored procedures!"}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:19:13:09	Thread ID:8
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"Dtms_0012","paras":[]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:19:13:09	Thread ID:8
+Description:
+[{"result":false,"err":104006,"msg":"Failed to execute the stored procedures!"}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:19:13:09	Thread ID:15
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"Dtms_0013","paras":[]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:19:13:09	Thread ID:15
+Description:
+[{"result":false,"err":104006,"msg":"Failed to execute the stored procedures!"}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:19:13:10	Thread ID:9
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"Dtms_0010","paras":[]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:19:13:10	Thread ID:9
+Description:
+[{"result":false,"err":104006,"msg":"Failed to execute the stored procedures!"}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:19:13:10	Thread ID:17
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"Dtms_0012","paras":[]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:19:13:10	Thread ID:17
+Description:
+[{"result":false,"err":104006,"msg":"Failed to execute the stored procedures!"}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月21日	Time:19:13:11	Thread ID:16
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"Dtms_0013","paras":[]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月21日	Time:19:13:11	Thread ID:16
+Description:
+[{"result":false,"err":104006,"msg":"Failed to execute the stored procedures!"}]
+--------------------------------
+

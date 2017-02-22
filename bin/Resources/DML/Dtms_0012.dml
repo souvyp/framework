@@ -1,0 +1,22 @@
+{
+  "namespace": "data",
+  "cmd": "sqlcmd",
+  "id": "Dtms_0012",
+  "version": 1,
+  "paras": {
+    "dbtype": "sqlserver",
+    "sql": "SELECT A.Index_ID AS [id], (CASE WHEN Index_SrcClass <> 3 THEN convert(varchar(16),A.Index_FromTime,120) ELSE dbo.fn_pub_order_Contains(A.Index_ID,6) END) AS [FromTime], (CASE WHEN Index_SrcClass <> 3 THEN convert(varchar(16),Index_ToTime,(120)) ELSE dbo.fn_pub_order_Contains(A.Index_ID,7) END) AS [ToTime], CONVERT( VARCHAR(16), Index_CreateTime, 111 ) AS [CreateTime], Index_Code AS [Code],convert(varchar(16),Index_StatusTime,120) AS [StatusTime],Index_PactCode AS [PactCode],(CASE WHEN Index_SrcClass <> 3 THEN Index_EndUserName ELSE dbo.fn_pub_order_Contains(A.Index_ID,8) END)  AS [EndUserName], (CASE WHEN Index_SrcClass <> 3 THEN (dbo.fn_pub_order_AreaName( Index_FromProvince)+' '+dbo.fn_pub_order_AreaName( Index_FromCity)+' '+dbo.fn_pub_order_AreaName( Index_FromDistrict)+' '+Index_From) ELSE dbo.fn_pub_order_Contains(A.Index_ID,4) END) AS [FromAddress], (CASE WHEN Index_SrcClass <> 3 THEN(dbo.fn_pub_order_AreaName( Index_ToProvince)+' '+dbo.fn_pub_order_AreaName( Index_ToCity) +' '+dbo.fn_pub_order_AreaName( Index_ToDistrict) +' '+ Index_To) ELSE dbo.fn_pub_order_Contains(A.Index_ID,5) END) AS [ToAddress], dbo.fn_pub_user_Company2Name(Index_CreatorCompanyID) AS [CustomerName],(CASE WHEN Index_SrcClass <> 3 THEN dbo.fn_pub_order_TotalAmount(A.Index_ID,0) ELSE dbo.fn_pub_order_Contains(A.Index_ID,3) END) AS[Qty],(CASE WHEN Index_SrcClass <> 3 THEN dbo.fn_pub_order_TotalWeight(A.Index_ID,0)  ELSE dbo.fn_pub_order_Contains(A.Index_ID,2) END) AS [Weight],  (CASE WHEN Index_SrcClass <> 3 THEN dbo.fn_pub_order_TotalVolume(A.Index_ID,0) ELSE dbo.fn_pub_order_Contains(A.Index_ID,1) END) AS [Volume],A.Index_SrcClass AS [SrcClass], Index_Status    FROM TMS_OrderIndex AS A INNER JOIN TMS_OrderFlow AS B ON A.Index_ID = B.Flow_OrderID  WHERE Flow_CompanyID = dbo.fn_pub_user_OpenId2CompanyID(@OpenId,0) AND Flow_Operation = 1 ORDER BY Index_StatusTime DESC ",
+    "readonly": "false",
+    "type": "text",
+    "paras": [
+      {
+        "name": "OpenId",
+        "type": "nvarchar",
+        "size": 300,
+        "direction": "input",
+        "displayName": ""
+      }
+    ],
+    "responseType": "recordset"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "namespace": "data",
+  "cmd": "sqlcmd",
+  "id": "acc_0003",
+  "version": 1,
+  "paras": {
+    "dbtype": "sqlserver",
+    "sql": "SELECT Supplier_ID AS [id],dbo.fn_pub_user_Company2Name(Supplier_OwnerCompanyID) AS [OwnerCompanyName],Supplier_Welcome AS [Welcome],Company_ClientCode AS [ClientCode],Company_Contact AS [Contact],Company_Phone AS [Phone],Company_Industry AS [Industry],Company_Web AS [Web] FROM TMS_MSupplier INNER JOIN  TMS_Company ON Company_ID = Supplier_OwnerCompanyID WHERE Supplier_CompanyID=dbo.fn_pub_user_OpenId2CompanyID(@OpenId,0) AND Supplier_Status=0 AND Supplier_Invalid = 0 AND Supplier_CompanyID > 0;",
+    "readonly": "false",
+    "type": "text",
+    "paras": [
+      {
+        "name": "OpenId",
+        "type": "nvarchar",
+        "size": 300,
+        "direction": "input",
+        "displayName": ""
+      }
+    ],
+    "responseType": "recordset"
+  }
+}

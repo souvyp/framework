@@ -1,0 +1,4153 @@
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:9:34:51	Thread ID:22
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:9:34:51	Thread ID:22
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:9:34:51	Thread ID:22
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:9:35:28	Thread ID:22
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:9:35:28	Thread ID:22
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:9:35:28	Thread ID:22
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:9:35:33	Thread ID:22
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:9:35:33	Thread ID:22
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:9:35:33	Thread ID:22
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:9:35:34	Thread ID:19
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:9:35:34	Thread ID:19
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:9:35:34	Thread ID:19
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:9:44:16	Thread ID:13
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:9:44:16	Thread ID:13
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:9:44:16	Thread ID:13
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wDIiFVQaGTs3JBZpvTlEAgc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:9:44:20	Thread ID:21
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:9:44:20	Thread ID:21
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:9:44:20	Thread ID:21
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wDIiFVQaGTs3JBZpvTlEAgc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:9:44:20	Thread ID:20
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:9:44:20	Thread ID:20
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:9:44:20	Thread ID:20
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wDIiFVQaGTs3JBZpvTlEAgc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:9:44:23	Thread ID:22
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:9:44:23	Thread ID:22
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:9:44:23	Thread ID:22
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wDIiFVQaGTs3JBZpvTlEAgc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:9:44:27	Thread ID:21
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:9:44:27	Thread ID:21
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:9:44:27	Thread ID:21
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wDIiFVQaGTs3JBZpvTlEAgc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:10:55:20	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:10:57:33	Thread ID:11
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:10:57:33	Thread ID:11
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:10:57:33	Thread ID:11
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wDIiFVQaGTs3JBZpvTlEAgc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:10:57:36	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:10:57:36	Thread ID:7
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:10:57:36	Thread ID:7
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wDIiFVQaGTs3JBZpvTlEAgc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:10:57:40	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:10:57:40	Thread ID:7
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:10:57:40	Thread ID:7
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wDIiFVQaGTs3JBZpvTlEAgc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:10:57:43	Thread ID:11
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:10:57:43	Thread ID:11
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:10:57:43	Thread ID:11
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wDIiFVQaGTs3JBZpvTlEAgc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:10:57:46	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:10:57:46	Thread ID:7
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:10:57:46	Thread ID:7
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wDIiFVQaGTs3JBZpvTlEAgc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:10:57:48	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:10:57:48	Thread ID:8
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:10:57:48	Thread ID:8
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wDIiFVQaGTs3JBZpvTlEAgc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:11:01:45	Thread ID:24
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:11:01:45	Thread ID:24
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:11:01:45	Thread ID:24
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wDIiFVQaGTs3JBZpvTlEAgc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:11:03:51	Thread ID:20
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:11:03:51	Thread ID:20
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:11:03:51	Thread ID:20
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wDIiFVQaGTs3JBZpvTlEAgc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:11:04:38	Thread ID:17
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:11:04:38	Thread ID:17
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:11:04:38	Thread ID:17
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wDIiFVQaGTs3JBZpvTlEAgc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:11:04:53	Thread ID:16
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:11:04:53	Thread ID:16
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:11:04:53	Thread ID:16
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wDIiFVQaGTs3JBZpvTlEAgc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:11:05:00	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:11:05:00	Thread ID:7
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:11:05:00	Thread ID:7
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wDIiFVQaGTs3JBZpvTlEAgc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:14:24:51	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:14:24:51	Thread ID:7
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:14:24:51	Thread ID:7
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wHRfkABlTIOi6PBTGDp1xYc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:14:24:54	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:14:24:54	Thread ID:8
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:14:24:54	Thread ID:8
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wHRfkABlTIOi6PBTGDp1xYc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:14:25:11	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:14:25:11	Thread ID:10
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:14:25:11	Thread ID:10
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wHRfkABlTIOi6PBTGDp1xYc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:14:25:26	Thread ID:5
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:14:25:26	Thread ID:5
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:14:25:26	Thread ID:5
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wHRfkABlTIOi6PBTGDp1xYc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:14:25:40	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:14:25:40	Thread ID:8
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:14:25:40	Thread ID:8
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wHRfkABlTIOi6PBTGDp1xYc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:14:27:28	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:14:27:28	Thread ID:8
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:14:27:28	Thread ID:8
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wHRfkABlTIOi6PBTGDp1xYc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:14:27:39	Thread ID:12
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:14:27:39	Thread ID:12
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:14:27:39	Thread ID:12
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wHRfkABlTIOi6PBTGDp1xYc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:14:54:54	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:14:54:54	Thread ID:8
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:14:54:54	Thread ID:8
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wHRfkABlTIOi6PBTGDp1xYc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:14:55:09	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:14:55:09	Thread ID:7
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:14:55:09	Thread ID:7
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wHRfkABlTIOi6PBTGDp1xYc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:14:56:19	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:14:56:19	Thread ID:8
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:14:56:19	Thread ID:8
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wHRfkABlTIOi6PBTGDp1xYc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:14:56:33	Thread ID:9
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:14:56:33	Thread ID:9
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:14:56:33	Thread ID:9
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wHRfkABlTIOi6PBTGDp1xYc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:14:56:34	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:14:56:34	Thread ID:8
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:14:56:34	Thread ID:8
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wHRfkABlTIOi6PBTGDp1xYc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:14:57:52	Thread ID:9
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:14:57:52	Thread ID:9
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:14:57:52	Thread ID:9
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wHRfkABlTIOi6PBTGDp1xYc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:14:57:53	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:14:57:53	Thread ID:8
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:14:57:53	Thread ID:8
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wHRfkABlTIOi6PBTGDp1xYc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:14:58:09	Thread ID:5
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:14:58:09	Thread ID:5
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:14:58:09	Thread ID:5
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wHRfkABlTIOi6PBTGDp1xYc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:14:59:40	Thread ID:18
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:14:59:40	Thread ID:18
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:14:59:40	Thread ID:18
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wDIiFVQaGTs3JBZpvTlEAgc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:15:02:32	Thread ID:9
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:15:02:32	Thread ID:9
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:15:02:32	Thread ID:9
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wDIiFVQaGTs3JBZpvTlEAgc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:15:02:34	Thread ID:9
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:15:02:34	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:15:02:36	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:15:02:36	Thread ID:8
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:15:02:36	Thread ID:8
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wDIiFVQaGTs3JBZpvTlEAgc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:15:02:39	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:13:54	Thread ID:9
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:16:13:54	Thread ID:9
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:16:13:54	Thread ID:9
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:13:55	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:16:13:55	Thread ID:8
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:16:13:55	Thread ID:8
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:14:36	Thread ID:9
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:16:14:36	Thread ID:9
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:16:14:36	Thread ID:9
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:14:52	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:16:14:52	Thread ID:8
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:16:14:52	Thread ID:8
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:15:32	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:16:15:32	Thread ID:8
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:16:15:32	Thread ID:8
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:15:42	Thread ID:11
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:16:15:42	Thread ID:11
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:16:15:42	Thread ID:11
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:16:14	Thread ID:9
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:16:18	Thread ID:15
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:16:16:18	Thread ID:15
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:16:16:18	Thread ID:15
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:16:25	Thread ID:5
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:16:16:25	Thread ID:5
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:16:16:25	Thread ID:5
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:19:00	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:16:19:00	Thread ID:8
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:16:19:00	Thread ID:8
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:20:21	Thread ID:17
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:20:21	Thread ID:9
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:20:44	Thread ID:5
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:16:20:44	Thread ID:5
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:16:20:44	Thread ID:5
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:21:22	Thread ID:17
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:16:21:22	Thread ID:17
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:16:21:22	Thread ID:17
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wHRfkABlTIOi6PBTGDp1xYc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:40:39	Thread ID:29
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:16:40:39	Thread ID:29
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:16:40:39	Thread ID:29
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:40:47	Thread ID:32
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:40:47	Thread ID:26
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:40:51	Thread ID:29
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:16:40:51	Thread ID:29
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:16:40:51	Thread ID:29
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:40:54	Thread ID:32
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:41:04	Thread ID:29
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:16:41:04	Thread ID:29
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:16:41:04	Thread ID:29
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:41:05	Thread ID:29
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:16:41:05	Thread ID:29
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:16:41:05	Thread ID:29
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:41:30	Thread ID:30
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:16:41:30	Thread ID:30
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:16:41:30	Thread ID:30
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:41:34	Thread ID:32
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:41:34	Thread ID:33
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:41:46	Thread ID:30
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:16:41:46	Thread ID:30
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:16:41:46	Thread ID:30
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:41:48	Thread ID:30
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:41:48	Thread ID:29
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:42:11	Thread ID:26
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:16:42:11	Thread ID:26
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:16:42:11	Thread ID:26
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:42:13	Thread ID:26
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:16:42:13	Thread ID:26
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:16:42:13	Thread ID:26
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:16:42:19	Thread ID:30
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:16:42:19	Thread ID:30
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:16:42:19	Thread ID:30
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:09:23	Thread ID:9
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:09:23	Thread ID:9
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:09:23	Thread ID:9
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wHRfkABlTIOi6PBTGDp1xYc
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:09:39	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:09:39	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:14:59	Thread ID:16
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:14:59	Thread ID:5
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:15:41	Thread ID:16
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:15:41	Thread ID:17
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:19:55	Thread ID:17
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:19:55	Thread ID:16
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:22:29	Thread ID:9
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:22:30	Thread ID:17
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:24:04	Thread ID:16
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:24:05	Thread ID:20
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:27:06	Thread ID:21
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:27:07	Thread ID:16
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:27:39	Thread ID:20
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:27:39	Thread ID:16
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:28:37	Thread ID:17
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:28:37	Thread ID:20
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:35:37	Thread ID:15
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:35:37	Thread ID:15
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:35:37	Thread ID:15
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wBFiZNThxJm3_NmCC1Qrwrg
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:41:16	Thread ID:32
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:41:16	Thread ID:31
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:41:22	Thread ID:32
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:41:22	Thread ID:32
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:41:22	Thread ID:32
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wBFiZNThxJm3_NmCC1Qrwrg
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:41:24	Thread ID:29
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:41:30	Thread ID:31
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:41:30	Thread ID:17
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:41:40	Thread ID:34
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:41:40	Thread ID:34
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:41:40	Thread ID:34
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wI-6cssZxHOPqMMziVQP3g4
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:44:27	Thread ID:29
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:44:27	Thread ID:29
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:44:27	Thread ID:29
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wDZU75AcPoyljbemIljqdnk
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:48:58	Thread ID:24
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:48:58	Thread ID:24
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:48:58	Thread ID:24
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:50:05	Thread ID:17
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:50:05	Thread ID:27
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:50:41	Thread ID:17
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:50:41	Thread ID:15
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:50:48	Thread ID:36
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:50:48	Thread ID:36
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:50:48	Thread ID:36
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:50:54	Thread ID:28
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:50:59	Thread ID:29
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:50:59	Thread ID:29
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:50:59	Thread ID:29
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:01	Thread ID:25
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:51:01	Thread ID:25
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:51:01	Thread ID:25
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:06	Thread ID:17
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:51:06	Thread ID:17
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:51:06	Thread ID:17
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:07	Thread ID:29
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:51:07	Thread ID:29
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:51:07	Thread ID:29
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:14	Thread ID:24
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:16	Thread ID:27
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:16	Thread ID:17
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:19	Thread ID:32
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:19	Thread ID:25
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:19	Thread ID:24
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:19	Thread ID:31
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:27	Thread ID:27
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:51:27	Thread ID:27
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:51:27	Thread ID:27
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:42	Thread ID:25
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:51:42	Thread ID:25
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:51:42	Thread ID:25
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:45	Thread ID:36
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:51:45	Thread ID:36
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:51:45	Thread ID:36
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wJvV_cqt_an9cFZskVAS50k
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:45	Thread ID:17
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:45	Thread ID:29
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:47	Thread ID:32
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:48	Thread ID:27
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:51:48	Thread ID:27
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:51:48	Thread ID:27
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:50	Thread ID:17
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:50	Thread ID:24
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:53	Thread ID:34
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:51:53	Thread ID:34
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:51:53	Thread ID:34
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:54	Thread ID:36
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:51:54	Thread ID:36
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:51:54	Thread ID:36
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:56	Thread ID:17
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:51:56	Thread ID:17
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:51:56	Thread ID:17
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wJvV_cqt_an9cFZskVAS50k
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:51:58	Thread ID:27
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:51:58	Thread ID:27
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:51:58	Thread ID:27
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wJvV_cqt_an9cFZskVAS50k
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:00	Thread ID:36
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:02	Thread ID:27
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:52:02	Thread ID:27
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:52:02	Thread ID:27
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:02	Thread ID:34
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:02	Thread ID:24
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:04	Thread ID:31
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:04	Thread ID:36
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:05	Thread ID:28
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:05	Thread ID:29
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:52:05	Thread ID:29
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:52:05	Thread ID:29
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:08	Thread ID:32
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:08	Thread ID:17
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:10	Thread ID:28
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:52:10	Thread ID:28
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:52:10	Thread ID:28
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:14	Thread ID:25
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:52:14	Thread ID:25
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:52:14	Thread ID:25
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wJvV_cqt_an9cFZskVAS50k
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:19	Thread ID:24
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:19	Thread ID:29
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:20	Thread ID:27
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:52:20	Thread ID:27
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:52:20	Thread ID:27
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wJvV_cqt_an9cFZskVAS50k
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:24	Thread ID:31
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:24	Thread ID:28
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:52:24	Thread ID:28
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:52:24	Thread ID:28
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:24	Thread ID:36
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:28	Thread ID:17
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:52:28	Thread ID:17
+Description:
+ defName=OrderID def=0/0/0/0 defVal = 
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:52:28	Thread ID:17
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:52:28	Thread ID:17
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wJvV_cqt_an9cFZskVAS50k
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:29	Thread ID:31
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:52:29	Thread ID:31
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:52:29	Thread ID:31
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wJvV_cqt_an9cFZskVAS50k
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:34	Thread ID:15
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:34	Thread ID:32
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:37	Thread ID:34
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:52:37	Thread ID:34
+Description:
+ defName=OrderID def=0/0/0/0 defVal = 
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:52:37	Thread ID:34
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:52:37	Thread ID:34
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wJvV_cqt_an9cFZskVAS50k
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:52:39	Thread ID:28
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:52:39	Thread ID:28
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:52:39	Thread ID:28
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wJvV_cqt_an9cFZskVAS50k
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:53:11	Thread ID:32
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:53:11	Thread ID:15
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:53:14	Thread ID:27
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:53:14	Thread ID:27
+Description:
+ defName=OrderID def=0/0/0/0 defVal = 
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:53:14	Thread ID:27
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:53:14	Thread ID:27
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wJvV_cqt_an9cFZskVAS50k
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:53:21	Thread ID:32
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:53:21	Thread ID:32
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:53:21	Thread ID:32
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wJvV_cqt_an9cFZskVAS50k
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:53:23	Thread ID:15
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:53:23	Thread ID:15
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:53:23	Thread ID:15
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wJvV_cqt_an9cFZskVAS50k
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:53:29	Thread ID:28
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:53:29	Thread ID:25
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:53:32	Thread ID:17
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:53:32	Thread ID:17
+Description:
+ defName=OrderID def=0/0/0/0 defVal = 
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:53:32	Thread ID:17
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:53:32	Thread ID:17
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wJvV_cqt_an9cFZskVAS50k
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:53:34	Thread ID:24
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:53:34	Thread ID:24
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:53:34	Thread ID:24
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wJvV_cqt_an9cFZskVAS50k
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:53:38	Thread ID:28
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:53:38	Thread ID:32
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:53:41	Thread ID:34
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:53:41	Thread ID:34
+Description:
+ defName=OrderID def=0/0/0/0 defVal = 
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:53:41	Thread ID:34
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:53:41	Thread ID:34
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wJvV_cqt_an9cFZskVAS50k
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:53:43	Thread ID:31
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:53:43	Thread ID:31
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:53:43	Thread ID:31
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wJvV_cqt_an9cFZskVAS50k
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:53:46	Thread ID:25
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:53:46	Thread ID:27
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:53:50	Thread ID:29
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:53:50	Thread ID:29
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:53:50	Thread ID:29
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wJvV_cqt_an9cFZskVAS50k
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:53:53	Thread ID:28
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:53:53	Thread ID:34
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:17:53:55	Thread ID:29
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:17:53:55	Thread ID:29
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:17:53:55	Thread ID:29
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wJvV_cqt_an9cFZskVAS50k
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:18:11:19	Thread ID:28
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:18:11:19	Thread ID:17
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:18:11:23	Thread ID:28
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:18:11:23	Thread ID:28
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:18:11:23	Thread ID:28
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:18:11:38	Thread ID:24
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:18:11:38	Thread ID:25
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:21:49:11	Thread ID:9
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:21:49:12	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:21:49:19	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:21:49:19	Thread ID:8
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:21:49:19	Thread ID:8
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:21:50:00	Thread ID:5
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:21:50:00	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:21:50:06	Thread ID:5
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:21:50:07	Thread ID:11
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:34:25	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:34:25	Thread ID:10
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:34:25	Thread ID:10
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:34:51	Thread ID:9
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:34:51	Thread ID:9
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:34:51	Thread ID:9
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:34:57	Thread ID:5
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:34:57	Thread ID:5
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:34:57	Thread ID:5
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:35:03	Thread ID:12
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:35:03	Thread ID:12
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:35:03	Thread ID:12
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:35:08	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:35:08	Thread ID:12
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:35:17	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:35:17	Thread ID:10
+Description:
+ defName=OrderID def=0/0/0/0 defVal = 
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:35:17	Thread ID:10
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:35:17	Thread ID:10
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:35:20	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:35:20	Thread ID:10
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:35:20	Thread ID:10
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:35:25	Thread ID:12
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:35:25	Thread ID:5
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:35:31	Thread ID:9
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:35:31	Thread ID:9
+Description:
+ defName=OrderID def=0/0/0/0 defVal = 
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:35:31	Thread ID:9
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:35:31	Thread ID:9
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:35:33	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:35:33	Thread ID:7
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:35:33	Thread ID:7
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:35:39	Thread ID:5
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:35:39	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:35:43	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:35:43	Thread ID:10
+Description:
+ defName=OrderID def=0/0/0/0 defVal = 
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:35:43	Thread ID:10
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:35:43	Thread ID:10
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:35:45	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:35:45	Thread ID:7
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:35:45	Thread ID:7
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:35:48	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:35:48	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:35:55	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:35:55	Thread ID:7
+Description:
+ defName=OrderID def=0/0/0/0 defVal = 
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:35:55	Thread ID:7
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:35:55	Thread ID:7
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:35:58	Thread ID:5
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:35:58	Thread ID:5
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:35:58	Thread ID:5
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:36:01	Thread ID:5
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:36:01	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:36:04	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:36:04	Thread ID:7
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:36:04	Thread ID:7
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:36:09	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:36:09	Thread ID:7
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:36:09	Thread ID:7
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:36:15	Thread ID:5
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:36:35	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:36:35	Thread ID:10
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:36:35	Thread ID:10
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:36:37	Thread ID:12
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:36:37	Thread ID:12
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:36:37	Thread ID:12
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:36:42	Thread ID:5
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:36:50	Thread ID:13
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:36:50	Thread ID:13
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:36:50	Thread ID:13
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:36:53	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:36:53	Thread ID:10
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:36:53	Thread ID:10
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:36:56	Thread ID:12
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:36:58	Thread ID:13
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:36:58	Thread ID:13
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:36:58	Thread ID:13
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:37:02	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:37:02	Thread ID:7
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:37:02	Thread ID:7
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:37:05	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:37:05	Thread ID:7
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:37:05	Thread ID:7
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:37:07	Thread ID:12
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:37:07	Thread ID:12
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:37:07	Thread ID:12
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:37:09	Thread ID:12
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:37:09	Thread ID:12
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:37:09	Thread ID:12
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:37:09	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:37:11	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:37:11	Thread ID:10
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:37:11	Thread ID:10
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:37:13	Thread ID:13
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:37:19	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:37:19	Thread ID:7
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:37:19	Thread ID:7
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:37:25	Thread ID:13
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:37:25	Thread ID:13
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:37:25	Thread ID:13
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:37:27	Thread ID:13
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:37:27	Thread ID:12
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:37:50	Thread ID:12
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:37:50	Thread ID:12
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:37:50	Thread ID:12
+Description:
+ defName=OpenID def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:37:58	Thread ID:12
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:37:58	Thread ID:12
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:37:58	Thread ID:12
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:37:59	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:38:00	Thread ID:12
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:38:37	Thread ID:15
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:38:37	Thread ID:15
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:38:37	Thread ID:15
+Description:
+ defName=OpenID def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:38:39	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:38:39	Thread ID:7
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:38:39	Thread ID:7
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:38:41	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:38:42	Thread ID:15
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:39:32	Thread ID:15
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:39:32	Thread ID:15
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:39:32	Thread ID:15
+Description:
+ defName=OpenID def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:39:34	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:39:34	Thread ID:10
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:39:34	Thread ID:10
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:39:36	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:39:36	Thread ID:15
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:40:10	Thread ID:15
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:40:10	Thread ID:15
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:40:10	Thread ID:15
+Description:
+ defName=OpenID def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:40:15	Thread ID:15
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:40:15	Thread ID:15
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:40:15	Thread ID:15
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:40:17	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:40:17	Thread ID:15
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:40:33	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:40:33	Thread ID:10
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:40:33	Thread ID:10
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:40:34	Thread ID:15
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:40:34	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:40:36	Thread ID:13
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:40:36	Thread ID:13
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:40:36	Thread ID:13
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:40:40	Thread ID:15
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:40:40	Thread ID:15
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:40:40	Thread ID:15
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:40:44	Thread ID:13
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:40:44	Thread ID:13
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:40:44	Thread ID:13
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:40:49	Thread ID:15
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:40:49	Thread ID:15
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:40:49	Thread ID:15
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:40:53	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:40:53	Thread ID:13
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:41:15	Thread ID:15
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:41:15	Thread ID:15
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:41:15	Thread ID:15
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:41:19	Thread ID:13
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:41:19	Thread ID:13
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:41:19	Thread ID:13
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:41:36	Thread ID:15
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:41:36	Thread ID:13
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:46:20	Thread ID:27
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:46:20	Thread ID:27
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:46:20	Thread ID:27
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:46:25	Thread ID:27
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:46:25	Thread ID:28
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:46:34	Thread ID:28
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:46:34	Thread ID:28
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:46:34	Thread ID:28
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:46:38	Thread ID:28
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:46:38	Thread ID:28
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:46:38	Thread ID:28
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:46:42	Thread ID:28
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:46:42	Thread ID:28
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:46:42	Thread ID:28
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:46:45	Thread ID:15
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:46:45	Thread ID:15
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:46:45	Thread ID:15
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:22:47:20	Thread ID:15
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:22:47:20	Thread ID:15
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:22:47:20	Thread ID:15
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:22:55	Thread ID:9
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:22:55	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:23:09	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:23:09	Thread ID:8
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:23:09	Thread ID:8
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:23:12	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:23:12	Thread ID:10
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:23:12	Thread ID:10
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:25:31	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:25:31	Thread ID:11
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:25:34	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:25:34	Thread ID:8
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:25:34	Thread ID:8
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:25:42	Thread ID:11
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:25:42	Thread ID:11
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:25:42	Thread ID:11
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:25:47	Thread ID:9
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:25:47	Thread ID:9
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:25:47	Thread ID:9
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:25:52	Thread ID:9
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:25:52	Thread ID:9
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:25:52	Thread ID:9
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:25:59	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:25:59	Thread ID:10
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:25:59	Thread ID:10
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:26:03	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:26:03	Thread ID:8
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:26:03	Thread ID:8
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:26:07	Thread ID:14
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:26:07	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:26:31	Thread ID:14
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:26:31	Thread ID:14
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:26:31	Thread ID:14
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:26:36	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:26:36	Thread ID:14
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:26:43	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:26:43	Thread ID:10
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:26:43	Thread ID:10
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:26:47	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:26:47	Thread ID:11
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:26:53	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:26:53	Thread ID:10
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:26:53	Thread ID:10
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:26:56	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:26:56	Thread ID:14
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:27:26	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:27:26	Thread ID:10
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:27:26	Thread ID:10
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:27:51	Thread ID:19
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:27:51	Thread ID:8
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:27:59	Thread ID:21
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:27:59	Thread ID:21
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:27:59	Thread ID:21
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:28:04	Thread ID:17
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:28:04	Thread ID:17
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:28:04	Thread ID:17
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:28:06	Thread ID:18
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:28:06	Thread ID:18
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:28:06	Thread ID:18
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:28:09	Thread ID:13
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:28:09	Thread ID:13
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:28:09	Thread ID:13
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:28:13	Thread ID:18
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:28:13	Thread ID:18
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:28:13	Thread ID:18
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:28:16	Thread ID:20
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:28:16	Thread ID:20
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:28:16	Thread ID:20
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:28:20	Thread ID:18
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:28:20	Thread ID:18
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:28:20	Thread ID:18
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:56:12	Thread ID:7
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:56:12	Thread ID:7
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:56:12	Thread ID:7
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月24日	Time:23:56:16	Thread ID:10
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.VMLDefaultHandler.GetQueryStringDefault	Date:2016年10月24日	Time:23:56:16	Thread ID:10
+Description:
+querystring name: openid
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.Handler.PMLDataHandler.ProcessVMLParasDefault	Date:2016年10月24日	Time:23:56:16	Thread ID:10
+Description:
+ defName=OpenId def=querystr[openid] defVal = oXrP5wMSRArZ1xUbu5tOwhff_o2E
+--------------------------------
+

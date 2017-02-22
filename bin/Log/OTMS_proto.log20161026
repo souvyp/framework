@@ -1,0 +1,72 @@
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月26日	Time:9:32:21	Thread ID:15
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"tms_0027","paras":[{"name":"id","value":"1057475"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月26日	Time:9:32:21	Thread ID:15
+Description:
+[{"result":true,"time":125,"rs":[{"rows":[{"OrderID":"1057475","Code":"ORD2016102522526-1","PactCode":"87","EndUserID":"5055","EndUserName":"小花花","From":"上海","To":"征订县","Status":"2","StatusTime":"2016/10/25 17:09:27","SrcOrderID":"1057474","RootOrderID":"1057474","DriverID":"0","DriverName":"","CarSN":"","CarID":"0","SupplierID":"367","SupplierName":"测试王师傅个体","Name":"测试万里物流有限公司","CustomerID":"721","ShipMode":"2","IsPick":"0","IsDelivery":"0","CustomerCompanyID":"495","Creator":"测试万里物流有限公司wanlia","CreatorCompanyID":"495","CreateTime":"2016/10/25","Confirmer":"11232","ConfirmTime":"2016/10/25 17:09:27","Singer":"0","SignTime":"","ReceiptDocPath0":"","ReceiptDocPath1":"","ReceiptDocPath2":"","ReceiptDocPath3":"","Exception":"","Invalid":"0","IsOnLoad":"0","IsOffLoad":"0","Comments":"","FromProvince":"上海市","FromProvince_id":"310000","FromCity":"上海市","AreaName":"上海市","FromCity_id":"310100","FromDistrict":"黄浦区","FromDistrict_id":"310101","FromTime":"2016-10-12 00:00","ToProvince":"河北省","ToProvince_id":"130000","ToCity":"石家庄市","ToCity_id":"130100","ToDistrict":"正定县","ToDistrict_id":"130123","ToTime":"2016-10-14 00:00","TransportMode":"1","GoodsCategory":"1","PackageMode":"1","ChargeMode":"1","APriceUnit":"公斤","PriceUnit":"1","IsInsurance":"1","VolumeAddition":"0.000000","WeightAddition":"0.0000","Descriptions":"","BrotherCount":"1","CustomerSymbolID":"","SupplierSymbolID":"0","CustomerSymbolName":"","SupplierSymbolName":"","FromContact":"15412121212","ToContact":"13212121212","SrcCode":"ORD2016102522526","GoodsValue":"12.00","Qty":"1.00","Weight":"10.0000","Volume":"12.670000"}]}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月26日	Time:9:32:23	Thread ID:7
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"tms_0102","paras":[{"name":"did","value":"1057475"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月26日	Time:9:32:23	Thread ID:7
+Description:
+[{"result":true,"time":562,"rs":[{"rows":[{"ListID":"54725","OrderID":"1057475","GoodsID":"1181","Code":"GOD2016102201427","Name":"面包","Qty":"1","Weight":"10.0000","Volume":"12.670000","weight":"10.0000","volume":"12.670000","BatchNo":"","Creator":"11222","InsertTime":"2016/10/25 17:04:26","Updater":"0","UpdateTime":"","Invalid":"0","Comments":"","SPC":"12","UnitName":"盒"}]}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月26日	Time:9:39:01	Thread ID:7
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"Dtms_0001","paras":[]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月26日	Time:9:39:02	Thread ID:7
+Description:
+[{"result":true,"time":281,"rs":[{"rows":[{"id":"1056726","FromTime":"","ToTime":"","CreateTime":"2016/10/24","Code":"ORD-C2016102422215","StatusTime":"2016/10/24 16:21:42","PactCode":"356","EndUserName":"","From":"","To":"","CustomerName":"测试万里物流有限公司","Qty":"","Weight":"0.0000","Volume":"0.000000","SrcClass":"3","BePrice":"0"},{"id":"1056792","FromTime":"2016-10-20 00:00","ToTime":"2016-10-29 00:00","CreateTime":"2016/10/25","Code":"ORD2016102522236-7","StatusTime":"2016/10/25 10:26:37","PactCode":"1","EndUserName":"唐家物流","From":"征订县","To":"138号路","CustomerName":"测试万里物流有限公司","Qty":"2.00","Weight":"20.0000","Volume":"25.340000","SrcClass":"2","BePrice":"0"},{"id":"1056793","FromTime":"2016-10-29 00:00","ToTime":"2016-10-29 00:00","CreateTime":"2016/10/25","Code":"ORD2016102522236-8","StatusTime":"2016/10/25 10:26:37","PactCode":"1","EndUserName":"唐家物流","From":"征订县","To":"138号路","CustomerName":"测试万里物流有限公司","Qty":"3.00","Weight":"30.0000","Volume":"38.010000","SrcClass":"2","BePrice":"0"},{"id":"1056800","FromTime":"","ToTime":"","CreateTime":"2016/10/25","Code":"ORD-C2016102522241","StatusTime":"2016/10/25 10:29:17","PactCode":"102","EndUserName":"","From":"","To":"","CustomerName":"测试万里物流有限公司","Qty":"","Weight":"0.0000","Volume":"0.000000","SrcClass":"3","BePrice":"0"}]}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月26日	Time:9:39:18	Thread ID:7
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"tms_0027","paras":[{"name":"id","value":"1056792"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月26日	Time:9:39:18	Thread ID:7
+Description:
+[{"result":true,"time":15,"rs":[{"rows":[{"OrderID":"1056792","Code":"ORD2016102522236-7","PactCode":"1","EndUserID":"4996","EndUserName":"唐家物流","From":"征订县","To":"138号路","Status":"1","StatusTime":"2016/10/25 10:26:37","SrcOrderID":"1056781","RootOrderID":"1056781","DriverID":"0","DriverName":"","CarSN":"","CarID":"0","SupplierID":"368","SupplierName":"测试李师傅个体","Name":"测试万里物流有限公司","CustomerID":"721","ShipMode":"2","IsPick":"0","IsDelivery":"0","CustomerCompanyID":"495","Creator":"测试万里物流有限公司wanlia","CreatorCompanyID":"495","CreateTime":"2016/10/25","Confirmer":"0","ConfirmTime":"","Singer":"0","SignTime":"","ReceiptDocPath0":"","ReceiptDocPath1":"","ReceiptDocPath2":"","ReceiptDocPath3":"","Exception":"","Invalid":"0","IsOnLoad":"0","IsOffLoad":"0","Comments":"","FromProvince":"河北省","FromProvince_id":"130000","FromCity":"石家庄市","AreaName":"石家庄市","FromCity_id":"130100","FromDistrict":"正定县","FromDistrict_id":"130123","FromTime":"2016-10-20 00:00","ToProvince":"北京市","ToProvince_id":"110000","ToCity":"北京市","ToCity_id":"110100","ToDistrict":"东城区","ToDistrict_id":"110101","ToTime":"2016-10-29 00:00","TransportMode":"1","GoodsCategory":"1","PackageMode":"1","ChargeMode":"1","APriceUnit":"吨","PriceUnit":"2","IsInsurance":"1","VolumeAddition":"0.000000","WeightAddition":"0.0000","Descriptions":"","BrotherCount":"13","CustomerSymbolID":"","SupplierSymbolID":"0","CustomerSymbolName":"","SupplierSymbolName":"","FromContact":"13212121212","ToContact":"15666666666","SrcCode":"ORD2016102522236","GoodsValue":"144.00","Qty":"2.00","Weight":"20.0000","Volume":"25.340000"}]}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月26日	Time:9:39:18	Thread ID:17
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"tms_0102","paras":[{"name":"did","value":"1056792"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月26日	Time:9:39:18	Thread ID:17
+Description:
+[{"result":true,"time":0,"rs":[{"rows":[{"ListID":"53515","OrderID":"1056792","GoodsID":"1181","Code":"GOD2016102201427","Name":"面包","Qty":"2","Weight":"20.0000","Volume":"25.340000","weight":"20.0000","volume":"25.340000","BatchNo":"","Creator":"11222","InsertTime":"2016/10/25 10:26:37","Updater":"0","UpdateTime":"","Invalid":"0","Comments":"","SPC":"12","UnitName":"盒"}]}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月26日	Time:9:40:42	Thread ID:17
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"Dtms_0001","paras":[]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月26日	Time:9:40:42	Thread ID:17
+Description:
+[{"result":true,"time":203,"rs":[{"rows":[{"id":"1056726","FromTime":"","ToTime":"","CreateTime":"2016/10/24","Code":"ORD-C2016102422215","StatusTime":"2016/10/24 16:21:42","PactCode":"356","EndUserName":"","From":"","To":"","CustomerName":"测试万里物流有限公司","Qty":"","Weight":"0.0000","Volume":"0.000000","SrcClass":"3","BePrice":"0"},{"id":"1056792","FromTime":"2016-10-20 00:00","ToTime":"2016-10-29 00:00","CreateTime":"2016/10/25","Code":"ORD2016102522236-7","StatusTime":"2016/10/25 10:26:37","PactCode":"1","EndUserName":"唐家物流","From":"征订县","To":"138号路","CustomerName":"测试万里物流有限公司","Qty":"2.00","Weight":"20.0000","Volume":"25.340000","SrcClass":"2","BePrice":"0"},{"id":"1056793","FromTime":"2016-10-29 00:00","ToTime":"2016-10-29 00:00","CreateTime":"2016/10/25","Code":"ORD2016102522236-8","StatusTime":"2016/10/25 10:26:37","PactCode":"1","EndUserName":"唐家物流","From":"征订县","To":"138号路","CustomerName":"测试万里物流有限公司","Qty":"3.00","Weight":"30.0000","Volume":"38.010000","SrcClass":"2","BePrice":"0"},{"id":"1056800","FromTime":"","ToTime":"","CreateTime":"2016/10/25","Code":"ORD-C2016102522241","StatusTime":"2016/10/25 10:29:17","PactCode":"102","EndUserName":"","From":"","To":"","CustomerName":"测试万里物流有限公司","Qty":"","Weight":"0.0000","Volume":"0.000000","SrcClass":"3","BePrice":"0"}]}]}]
+--------------------------------
+

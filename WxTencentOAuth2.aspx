@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WxTencentOAuth2.aspx.cs" Inherits="OTMS.WxTencentOAuth2" %>

@@ -1,0 +1,53 @@
+{
+  "namespace": "view",
+  "cmd": "data",
+  "id": "D_pml_0021",
+  "version": 1,
+  "dml-id": "D_pml_0021",
+  "dmlparas": {
+    "rows": true,
+    "columns": false,
+    "paras": [
+      {
+        "name": "OpenId",
+        "type": "querystr",
+        "value": "querystr[openid]"
+      },
+      {
+        "name": "DocID",
+        "type": "prev_rs",
+        "value": "0/0/0/1"
+      },
+      {
+        "name": "DetailID",
+        "type": "normal",
+        "value": 0
+      },
+      {
+        "name": "DocType",
+        "type": "normal",
+        "value": 9
+      },
+      {
+        "name": "Price",
+        "type": "normal",
+        "value": 0
+      },
+      {
+        "name": "Description",
+        "type": "normal",
+        "value": ""
+      },
+      {
+        "name": "TxnRequired",
+        "type": "normal",
+        "value": 0
+      },
+      {
+        "name": "AdditionType",
+        "type": "normal",
+        "value": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月19日	Time:16:34:13	Thread ID:31
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月19日	Time:16:34:26	Thread ID:25
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月19日	Time:16:34:41	Thread ID:25
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月19日	Time:16:34:47	Thread ID:37
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+
+--------------------------------
+Module:NDS.NML.Handler.SSOWrapper.IsSignedIn	Date:2016年10月19日	Time:16:39:41	Thread ID:32
+Description:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NDS.NML.Handler.SSOWrapper.IsSignedIn() in d:\SVN\Server\NSS\trunk\NDS.NML\Handler\SSOWrapper.cs:line 49
+--------------------------------
+

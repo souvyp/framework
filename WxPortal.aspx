@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WxPortal.aspx.cs" Inherits="OTMS.WxPortal" %>

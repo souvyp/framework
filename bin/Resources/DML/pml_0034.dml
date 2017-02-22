@@ -1,0 +1,34 @@
+{
+  "namespace": "data",
+  "cmd": "sqlcmd",
+  "id": "pml_0034",
+  "version": 1,
+  "paras": {
+    "dbtype": "sqlserver",
+    "sql": "SELECT 
+	SUM(CASE WHEN Cache_Type = 1 THEN ISNULL(Cache_Amount, 0) ELSE 0 END) AS [LessLoad],
+	SUM(CASE WHEN Cache_Type = 2 THEN ISNULL(Cache_Amount, 0) ELSE 0 END) AS [FullLoad],
+	SUM(CASE WHEN Cache_Type = 3 THEN ISNULL(Cache_Amount, 0) ELSE 0 END) AS [Pick], 
+	SUM(CASE WHEN Cache_Type = 4 THEN ISNULL(Cache_Amount, 0) ELSE 0 END) AS [Delivery],
+	SUM(CASE WHEN Cache_Type = 5 THEN ISNULL(Cache_Amount, 0) ELSE 0 END) AS [OnLoad],
+	SUM(CASE WHEN Cache_Type = 6 THEN ISNULL(Cache_Amount, 0) ELSE 0 END) AS [OffLoad],
+	SUM(CASE WHEN Cache_Type = 7 THEN ISNULL(Cache_Amount, 0) ELSE 0 END) AS [Min],
+	SUM(CASE WHEN Cache_Type = 8 THEN ISNULL(Cache_Amount, 0) ELSE 0 END) AS [InsuranceCost],
+	SUM(CASE WHEN Cache_Type = 9 THEN ISNULL(Cache_Amount, 0) ELSE 0 END) AS [Addition],
+	SUM(CASE WHEN Cache_Type = 10 THEN ISNULL(Cache_Amount, 0) ELSE 0 END) AS [Tax], 
+	SUM(Cache_Amount) AS [TotalAmounts]
+	FROM Price_OrderCache WHERE Cache_OrderID = @did AND Cache_Invalid = 0 GROUP BY Cache_OrderID;",
+    "readonly": "false",
+    "type": "text",
+    "paras": [
+      {
+        "name": "did",
+        "type": "bigint",
+        "size": 100,
+        "direction": "input",
+        "displayName": ""
+      }
+    ],
+    "responseType": "recordset"
+  }
+}

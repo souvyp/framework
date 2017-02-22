@@ -1,0 +1,22 @@
+﻿{
+  "namespace": "data",
+  "cmd": "sqlcmd",
+  "id": "Dtms_0107",
+  "version": 1,
+  "paras": {
+    "dbtype": "sqlserver",
+    "sql": "SELECT orderid,code,statu,SrcClass,TotalCost,dbo.fn_pub_price_OrderBePrice(orderid) AS BePrice, customercompanyid FROM dbo.fn_pub_order_DriveOrder(@id);",
+    "readonly": "false",
+    "type": "text",
+    "paras": [
+      {
+        "name": "id",
+        "type": "bigint",
+        "size": 8,
+        "direction": "input",
+        "displayName": ""
+      }
+    ],
+    "responseType": "recordset"
+  }
+}

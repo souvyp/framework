@@ -1,0 +1,18 @@
+﻿{
+  "namespace": "view",
+  "cmd": "data",
+  "id": "Driver_grid_jplist_0008",
+  "version": 1,
+  "dml-id": "Driver_grid_jplist_0008",
+  "dmlparas": {
+    "rows": true,
+    "columns": true,
+    "paras": [
+      {
+        "name": "OpenId",
+        "type": "querystr",
+        "value": "querystr[openid]"
+      }
+    ]
+  }
+}

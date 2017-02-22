@@ -1,0 +1,38 @@
+{
+  "namespace": "data",
+  "cmd": "sqlcmd",
+  "id": "acc_0004",
+  "version": 1,
+  "paras": {
+    "dbtype": "sqlserver",
+    "sql": "sp_pub_my_SupplierDriverAccept",
+    "readonly": "false",
+    "type": "StoreProcedure",
+    "paras": [
+      {
+        "name": "OpenId",
+        "type": "nvarchar",
+        "size": 300,
+        "direction": "input",
+        "displayName": ""
+      },
+      {
+        "name": "SupplierID",
+        "type": "BIGINT",
+        "size": 8,
+        "direction": "input",
+        "displayName": ""
+      },
+      {
+        "name": "Op",
+        "type": "BIGINT",
+        "size": 8,
+        "direction": "input",
+        "displayName": ""
+      }
+	  
+	  
+    ],
+    "responseType": "recordset"
+  }
+}

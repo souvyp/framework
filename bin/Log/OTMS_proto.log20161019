@@ -1,0 +1,60 @@
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月19日	Time:16:34:13	Thread ID:31
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"Dtms_0001","paras":[{"name":"OpenId","value":"123432433dsds"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月19日	Time:16:34:13	Thread ID:31
+Description:
+[{"result":false,"err":102001,"msg":"Can not found the vml script!","cmd":"data","id":"Dtms_0001","version":1}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月19日	Time:16:34:26	Thread ID:25
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"Dtms_0001","paras":[{"name":"OpenId","value":"123432433dsds"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月19日	Time:16:34:26	Thread ID:25
+Description:
+[{"result":false,"err":102001,"msg":"Can not found the vml script!","cmd":"data","id":"Dtms_0001","version":1}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月19日	Time:16:34:41	Thread ID:25
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"Dtms_0001","paras":[{"name":"OpenId","value":"123432433dsds"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月19日	Time:16:34:41	Thread ID:25
+Description:
+[{"result":false,"err":102001,"msg":"Can not found the vml script!","cmd":"data","id":"Dtms_0001","version":1}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月19日	Time:16:34:47	Thread ID:37
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"Dtms_0001","paras":[{"name":"OpenId","value":"123432433dsds"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月19日	Time:16:34:47	Thread ID:37
+Description:
+[{"result":false,"err":102001,"msg":"Can not found the vml script!","cmd":"data","id":"Dtms_0001","version":1}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月19日	Time:16:39:41	Thread ID:32
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"Dtms_0001","paras":[{"name":"OpenId","value":"123432433dsds"}]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月19日	Time:16:39:41	Thread ID:32
+Description:
+[{"result":false,"err":102001,"msg":"Can not found the vml script!","cmd":"data","id":"Dtms_0001","version":1}]
+--------------------------------
+

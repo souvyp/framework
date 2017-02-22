@@ -1,0 +1,22 @@
+{
+  "namespace": "data",
+  "cmd": "sqlcmd",
+  "id": "Dtms_0002",
+  "version": 1,
+  "paras": {
+    "dbtype": "sqlserver",
+    "sql": "SELECT A.Index_ID AS [id],convert(varchar(16),Index_FromTime,120) AS [FromTime], convert(varchar(16),Index_ToTime,(120)) AS [ToTime], Index_Code AS [Code], Index_PactCode AS [PactCode], Index_EndUserName AS [EndUserName], (dbo.fn_pub_order_AreaName(Index_FromProvince)+' '+dbo.fn_pub_order_AreaName(Index_FromCity)+' '+dbo.fn_pub_order_AreaName(Index_FromDistrict)+' '+Index_From) AS [IFrom], (dbo.fn_pub_order_AreaName(Index_ToProvince)+' '+dbo.fn_pub_order_AreaName(Index_ToCity) +' '+dbo.fn_pub_order_AreaName(Index_ToDistrict) +' '+ Index_To) AS [ITo], Index_StatusTime AS [StatusTime], dbo.fn_pub_user_Customer2Name(Index_CustomerID) AS [CustomerName],dbo.fn_pub_user_SupplierName(Index_SupplierID) AS [SupplierName], dbo.fn_pub_order_TotalVolume(A.Index_ID,0) AS [TotalVolume],dbo.fn_pub_order_TotalWeight(A.Index_ID,0) AS [TotalWeight], dbo.fn_pub_order_TotalAmount(A.Index_ID,0) AS [TotalAmount], NULL AS [Qty], convert(varchar(10),Index_CreateTime,120) AS [createtime],Index_SrcClass AS [SrcClass] FROM TMS_OrderIndex  A INNER JOIN (SELECT Index_ID,Index_Combined AS [Combined] FROM TMS_OrderIndex ) AS B ON A.Index_SrcOrderID = B.Index_ID WHERE Index_CreatorCompanyID = dbo.fn_pub_user_OpenId2CompanyID(@OpenId, 0) AND Index_SupplierSymbolID = 0 AND ( Index_SrcClass = 1 AND Index_CustomerCompanyID <> Index_CreatorCompanyID )   AND Index_Invalid = 0 AND Index_Status < 16 AND dbo.fn_pub_order_TotalCost(A.Index_ID) = 0 AND Index_Combined = 0 AND dbo.fn_pub_price_OrderBePrice(A.Index_ID) = 0 AND dbo.fn_pub_price_OrderBePrice(A.Index_ID) = 0 AND B.Combined = 0 UNION SELECT Index_ID AS [id],convert(varchar(16),Index_FromTime,120) AS [FromTime], convert(varchar(16),Index_ToTime,(120)) AS [ToTime],Index_Code AS [Code], Index_PactCode AS [PactCode], Index_EndUserName AS [EndUserName], (dbo.fn_pub_order_AreaName(Index_FromProvince)+' '+dbo.fn_pub_order_AreaName(Index_FromCity)+' '+dbo.fn_pub_order_AreaName(Index_FromDistrict)+' '+Index_From) AS [IFrom], (dbo.fn_pub_order_AreaName(Index_ToProvince)+' '+dbo.fn_pub_order_AreaName(Index_ToCity) +' '+dbo.fn_pub_order_AreaName(Index_ToDistrict) +' '+ Index_To) AS [ITo],Index_StatusTime AS [StatusTime], dbo.fn_pub_user_Customer2Name(Index_CustomerID) AS [CustomerName], dbo.fn_pub_user_SupplierName(Index_SupplierID) AS [SupplierName], B.TotalVolume AS [TotalVolume],B.TotalWeight AS [TotalWeight],NULL AS [TotalAmount],  CAST(B.[Qty] AS INT) AS [Qty], convert(varchar(10),Index_CreateTime,120) AS [createtime],Index_SrcClass AS [SrcClass] FROM TMS_OrderIndex AS A CROSS APPLY (SELECT SUM(1) AS [Qty],SUM(Contains_Volume) AS [TotalVolume],SUM(Contains_Weight) AS [TotalWeight] FROM TMS_OrderContains WHERE Contains_OwnerOrderID = A.Index_ID) B  WHERE Index_SupplierCompanyID = dbo.fn_pub_user_OpenId2CompanyID(@OpenId, 0) AND Index_SupplierSymbolID = 0 AND Index_Invalid = 0 AND Index_Status <> 32 AND Index_Status > 1 AND Index_SrcClass = 3 AND dbo.fn_pub_order_TotalCost(Index_ID) = 0 AND dbo.fn_pub_price_OrderBePrice(Index_ID) = 0 ORDER BY Index_StatusTime DESC",
+    "readonly": "false",
+    "type": "text",
+    "paras": [
+      {
+        "name": "OpenId",
+        "type": "nvarchar",
+        "size": 300,
+        "direction": "input",
+        "displayName": ""
+      }
+    ],
+    "responseType": "recordset"
+  }
+}

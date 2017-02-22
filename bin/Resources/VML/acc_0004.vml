@@ -1,0 +1,28 @@
+{
+  "namespace": "view",
+  "cmd": "data",
+  "id": "acc_0004",
+  "version": 1,
+  "dml-id": "acc_0004",
+  "dmlparas": {
+    "rows": true,
+    "columns": false,
+    "paras": [
+      {
+        "name": "OpenId",
+        "type": "querystr",
+        "value": "querystr[openid]"
+      },
+      {
+        "name": "SupplierID",
+        "type": "normal",
+        "value": ""
+      },
+      {
+        "name": "Op",
+        "type": "normal",
+        "value": ""
+      }
+    ]
+  }
+}

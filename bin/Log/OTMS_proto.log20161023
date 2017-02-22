@@ -1,0 +1,12 @@
+--------------------------------
+Module:NDS.Portal.PMLPortal.PostMethod	Date:2016年10月23日	Time:16:28:35	Thread ID:8
+Description:
+[{"namespace":"protocol","cmd":"data","version":1,"id":"Dtms_0001","paras":[]}]
+--------------------------------
+
+--------------------------------
+Module:NDS.Portal.PMLPortal.DoResponseWrite	Date:2016年10月23日	Time:16:28:36	Thread ID:8
+Description:
+[{"result":true,"time":281,"rs":[{"rows":[{"id":"1056393","FromTime":"","ToTime":"","CreateTime":"2016/10/22","Code":"ORD-C2016102222069","StatusTime":"2016/10/22 22:32:05","PactCode":"444","EndUserName":"","From":"","To":"","CustomerName":"测试万里物流有限公司","Qty":"","Weight":"0.0000","Volume":"0.000000","SrcClass":"3","BePrice":"0"}]}]}]
+--------------------------------
+

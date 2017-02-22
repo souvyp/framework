@@ -1,0 +1,22 @@
+{
+  "namespace": "data",
+  "cmd": "sqlcmd",
+  "id": "Dtms_0013",
+  "version": 1,
+  "paras": {
+    "dbtype": "sqlserver",
+    "sql": "SELECT A.Index_ID AS [Orderid], A.Index_Code AS [Ordercode],A.Index_PactCode AS [pactcode], Index_EndUserName AS [endusername], Index_From AS [fromAddress],Index_FromTime AS [FromTime],Index_To AS [toAddress], Index_ToTime AS [ToTime], CONVERT(VARCHAR(100),A.Index_CreateTime,111) AS [createtime],dbo.fn_pub_user_Customer2Name(A.Index_CustomerID) AS [CustomerName],Index_SrcClass AS [SrcClass],dbo.fn_pub_order_TotalCost(A.Index_ID) AS [TotalCost],D.Index_ID AS [DocId],D.DocType,D.TotalAmounts,D.DocCreatorID,D.DocComments ,dbo.fn_pub_order_TotalVolume(A.Index_ID,0) AS [TotalVolume],dbo.fn_pub_order_TotalWeight(A.Index_ID,0) AS [TotalWeight]  FROM TMS_OrderIndex AS A INNER JOIN (SELECT [TotalAmounts],Do.Index_ID,Do.Index_OrderID AS [OrderID],Do.Index_Type AS [DocType],Do.Index_ConfirmTime AS [DocConfirmTime],Do.Index_CreatorID AS [DocCreatorID],Do.Index_Comments AS [DocComments] FROM Price_DocIndex AS Do INNER JOIN (SELECT Detail_DocID,SUM(Detail_Amount) AS [TotalAmounts] FROM Price_DocDetails GROUP BY Detail_DocID) AS DD ON Do.Index_ID = DD.Detail_DocID WHERE Do.Index_Status = 0  AND Do.Index_Type <> 2 AND Do.Index_Confirmer <> 0 ) AS D ON A.Index_ID = D.OrderID AND Index_SrcClass <> 2 AND dbo.fn_pub_user_User2CompanyID(D.DocCreatorID,0) = dbo.fn_pub_user_OpenId2CompanyID(@OpenId,0)  ORDER BY D.DocConfirmTime DESC",
+    "readonly": "false",
+    "type": "text",
+    "paras": [
+      {
+        "name": "OpenId",
+        "type": "nvarchar",
+        "size": 300,
+        "direction": "input",
+        "displayName": ""
+      }
+    ],
+    "responseType": "recordset"
+  }
+}

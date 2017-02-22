@@ -1,0 +1,22 @@
+{
+  "namespace": "data",
+  "cmd": "sqlcmd",
+  "id": "Dtms_0001",
+  "version": 1,
+  "paras": {
+    "dbtype": "sqlserver",
+    "sql": "SELECT Index_ID AS [id], convert(varchar(16),Index_FromTime,120) AS [FromTime], convert(varchar(16),Index_ToTime,(120)) AS [ToTime],CONVERT( VARCHAR(100), Index_CreateTime, 111 ) AS [CreateTime], Index_Code AS [Code],Index_StatusTime AS [StatusTime],Index_PactCode AS [PactCode],Index_EndUserName AS [EndUserName], (dbo.fn_pub_order_AreaName(Index_FromProvince)+' '+dbo.fn_pub_order_AreaName(Index_FromCity)+' '+dbo.fn_pub_order_AreaName(Index_FromDistrict)+' '+Index_From) AS [From],(dbo.fn_pub_order_AreaName(Index_ToProvince)+' '+dbo.fn_pub_order_AreaName(Index_ToCity) +' '+dbo.fn_pub_order_AreaName(Index_ToDistrict) +' '+ Index_To) AS [To], dbo.fn_pub_user_Company2Name(Index_CreatorCompanyID) AS [CustomerName], CAST(B.[Qty] AS INT) AS [Qty], (ISNULL(B.[Weight],0)+A.Index_WeightAddition) AS [Weight], (ISNULL(B.[Volume],0)+A.Index_VolumeAddition) AS [Volume],A.Index_SrcClass AS [SrcClass],dbo.fn_pub_price_OrderBePrice(Index_ID) AS [BePrice],A.Index_ShipMode AS [ShipMode],(CASE WHEN Index_SrcClass = 1 THEN 1 ELSE dbo.fn_pub_order_CountContainsOrder(Index_ID)END) AS [OrderCount] FROM TMS_OrderIndex AS A CROSS APPLY (SELECT SUM(GoodsLst_Qty) AS [Qty], SUM(GoodsLst_Weight) AS [Weight], SUM(GoodsLst_Volume) AS [Volume] FROM TMS_OrderGoods WHERE GoodsLst_OrderID = A.Index_ID) B  WHERE Index_SupplierCompanyID = dbo.fn_pub_user_OpenId2CompanyID(@OpenId, 0) AND Index_Status = 1 AND Index_Invalid = 0 AND Index_Combined = 0 ORDER BY Index_StatusTime DESC",
+    "readonly": "false",
+    "type": "text",
+    "paras": [
+      {
+        "name": "OpenId",
+        "type": "nvarchar",
+        "size": 300,
+        "direction": "input",
+        "displayName": ""
+      }
+    ],
+    "responseType": "recordset"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "namespace": "data",
+  "cmd": "sqlcmd",
+  "id": "Dtms_0015",
+  "version": 1,
+  "paras": {
+    "dbtype": "sqlserver",
+    "sql": "SELECT Company_Name AS [CompanyName],Company_Contact AS [Contact],Company_Phone AS [Phone],Company_Industry AS [Industry],Company_Web AS [Web],Company_ClientCode AS [ClientCode],B.TotalCost,B.customercompanyid FROM dbo.TMS_Company INNER JOIN (SELECT Index_CustomerCompanyID AS [customercompanyid],dbo.fn_pub_user_Company2Name(Index_CustomerCompanyID) AS [CompanyName],SUM(dbo.fn_pub_order_TotalCost(Index_ID)) AS [TotalCost] FROM TMS_OrderIndex WHERE Index_Invalid = 0 and Index_Status = 8 AND Index_CreatorCompanyID =  dbo.fn_pub_user_OpenId2CompanyID(@OpenId, 0) GROUP BY Index_CustomerCompanyID) AS B ON Company_ID = B.customercompanyid AND B.customercompanyid = @customercompanyid",
+    "readonly": "false",
+    "type": "text",
+    "paras": [
+      {
+        "name": "OpenId",
+        "type": "nvarchar",
+        "size": 300,
+        "direction": "input",
+        "displayName": ""
+      },
+	  {
+        "name": "CustomerCompanyID",
+        "type": "nvarchar",
+        "size": 300,
+        "direction": "input",
+        "displayName": ""
+      }
+    ],
+    "responseType": "recordset"
+  }
+}
